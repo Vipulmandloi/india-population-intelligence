@@ -1,0 +1,157 @@
+{
+  "files": {
+    ".gitattributes": {
+      "bytes": 165,
+      "sha256": "ced5780034b70131ef35a510f1da11759346a382f9b460f5fb5f6f260e65a2ba"
+    },
+    ".streamlit/config.toml": {
+      "bytes": 281,
+      "sha256": "331992692e72c3b9c17de2c81d57a23065df89ccf47a491ef6ef127418292ffb"
+    },
+    "NOTICE.md": {
+      "bytes": 1098,
+      "sha256": "662b266181c7ad266a8c525bb4a992b2cce779e7bf0cddbe1a0a4e3b4ed9ff66"
+    },
+    "README.md": {
+      "bytes": 4992,
+      "sha256": "2438174d7e0f6d936d31f1058a3881b1dab925ccae0b335fff6c710f8e0ad58f"
+    },
+    "advanced_analytics.py": {
+      "bytes": 12865,
+      "sha256": "123b9ac15b46d680d8e9772fcb46188a10ac3c92d5dc5346e01825f5011dcf97"
+    },
+    "advanced_data.py": {
+      "bytes": 15606,
+      "sha256": "cbb39b1d9ae8696edcecc6640f27cc28876546654749c5e823720ba93332515e"
+    },
+    "advanced_views.py": {
+      "bytes": 22808,
+      "sha256": "9bfb9f5b168f90dc7e4197269f05416dc21100f574305dcda493550f5f23a166"
+    },
+    "analytics.py": {
+      "bytes": 10663,
+      "sha256": "8078685d7ef438f6b8123c4631ce11b6b2cf8e9227eb8a47567ae1baa15095ae"
+    },
+    "app.py": {
+      "bytes": 5877,
+      "sha256": "df88089499693e9ec8407070e8ad142483045c12f5afb4732a525d8e07704d41"
+    },
+    "assets/india-states.geojson": {
+      "bytes": 340919,
+      "sha256": "94839dd92d340992c3eb6d1d3107cc0b545b48013810ae2d456c16f5145b962f"
+    },
+    "assets/state-centroids.json": {
+      "bytes": 1681,
+      "sha256": "f29fdd4b9f0db0f8e4048f9ef0d79f98da99ad203c9c6b3cf72870df4e684c7d"
+    },
+    "benchmark_release.py": {
+      "bytes": 3851,
+      "sha256": "b2b4e4c4460afb6fbd1b4535ea6e863e4efa4ac9e3c0ff94657c2063478ee931"
+    },
+    "dashboard_data.py": {
+      "bytes": 7809,
+      "sha256": "a073c2ea46b7d283ab88a2bcd729df4e03b2976bc74285070860a3f31f7badc2"
+    },
+    "data/advanced-v1.duckdb": {
+      "bytes": 5779456,
+      "sha256": "05053a452415186c4d29a1b4d03c21734cbc492cc4f989890a0683829fb443ac"
+    },
+    "data/india_population_release.duckdb": {
+      "bytes": 11284480,
+      "sha256": "e0f491fe2a9b42af228324a786142106826e129bd8af5b394fd696e4a6138939"
+    },
+    "docs/architecture.md": {
+      "bytes": 4114,
+      "sha256": "4748dc1d283080d4f67235a57c9df73e563aaea5818ec225b44098a8c6ce0326"
+    },
+    "docs/dashboard.md": {
+      "bytes": 2904,
+      "sha256": "a8a3c04dd5c8932836844a6fe93f422775017ad9df9d01e2abe8ef27149d0f5a"
+    },
+    "docs/p4d-validation.json": {
+      "bytes": 1377,
+      "sha256": "16646b17e15f3b4c686dd655b38b0bdf26b398b3452ade541698528cda72f222"
+    },
+    "docs/p4d-validation.md": {
+      "bytes": 11256,
+      "sha256": "5f787d6a745faef1f5957a8400613d129c22cd53ae584aed41e4fed417973fc3"
+    },
+    "docs/p5-release.md": {
+      "bytes": 10039,
+      "sha256": "271c28558f5ecd9a88c67aa8ce143245413d37c4e96401aac6b181aaf8cc0ec5"
+    },
+    "docs/release-v2.md": {
+      "bytes": 2277,
+      "sha256": "5f2e93377096cea6dd42b47a89a342677ee7feac3cb2efa99c31fc6b5ad97f9d"
+    },
+    "docs/screenshots/demographics.jpg": {
+      "bytes": 130136,
+      "sha256": "918bf1176294ad0f55efac9e1d5a17524b9efc93d6b9c2497182b6cbf9676043"
+    },
+    "docs/screenshots/education.jpg": {
+      "bytes": 126785,
+      "sha256": "53639dcc4cce58039014ddee762955e166ba536786871ab91c403e5a97bcedca"
+    },
+    "docs/screenshots/employment.jpg": {
+      "bytes": 100210,
+      "sha256": "0a99ce4f3abf9de6fa1e2cc4a99f2fbfc935172f65e12a200ff7bf38f1205167"
+    },
+    "docs/screenshots/executive-overview.jpg": {
+      "bytes": 131797,
+      "sha256": "4e93be22742478cab8deeb4ab884f333d3a1490ec715154208c570707705fd16"
+    },
+    "docs/screenshots/geography.jpg": {
+      "bytes": 128735,
+      "sha256": "9c172ddc30df9b513f1f33fc9f7dff9890890394bf7868f07aaadc272e05d4ed"
+    },
+    "docs/screenshots/methodology.jpg": {
+      "bytes": 156400,
+      "sha256": "9fa9cd843578b730e0b8c18c476e4a6193133b32a2a4bfc8d49f62e673676314"
+    },
+    "docs/screenshots/multidimensional-explorer.jpg": {
+      "bytes": 108100,
+      "sha256": "aad7314e8dc0cd217fbdc97809ca74b2f07c0101b8ba9aaf9ad0a8134f269ce8"
+    },
+    "docs/screenshots/state-comparison.jpg": {
+      "bytes": 147721,
+      "sha256": "ce8293ed1f90a5b5514f7afb341ba4fe89d4b180b03d7dd955334f7d0dd3c626"
+    },
+    "docs/screenshots/state-profile.jpg": {
+      "bytes": 165419,
+      "sha256": "e2b0d0389f1655ecf760ddb72452044716d5f295757669e01ce062ba82dcd5c3"
+    },
+    "intelligence.py": {
+      "bytes": 15796,
+      "sha256": "3eaceb45f7751440109d40381b5c4e8452b38f1a1032f5c260102091e337e82b"
+    },
+    "release_snapshot.py": {
+      "bytes": 10388,
+      "sha256": "2cd7d45cb217a102c22c96dc4c8e207353d0d9ebb2bd76b752d4640c9eee8207"
+    },
+    "reports.py": {
+      "bytes": 2272,
+      "sha256": "2f90223b585e04af52d9d2c59823d377e22298c88d8744bdf410433dd678a518"
+    },
+    "requirements.in": {
+      "bytes": 80,
+      "sha256": "46b42c46986211b329a53ffcda43a76a12131717be0acdb39ad671ef7cdf095b"
+    },
+    "requirements.txt": {
+      "bytes": 2042,
+      "sha256": "c6b5737c10aca6fbbe9ea079e8f5657ae7c16c92093caf06b93e09f11f9716c6"
+    },
+    "ui.py": {
+      "bytes": 9034,
+      "sha256": "85767b7f55107f6fa7c60a90efc4dbe379ce6672f9c82e20bc0cc3c589f019c9"
+    },
+    "validate_p4d.py": {
+      "bytes": 21163,
+      "sha256": "9dfa3de3c1c263de148b8653334cc6041caf50312dd532659f6343e955351f9f"
+    },
+    "workspaces.py": {
+      "bytes": 23965,
+      "sha256": "f864c25df2cba559aa829e180d7eb7127c6fe9efcebc493cd1872698ec348a59"
+    }
+  },
+  "version": "2.0.0-rc.1"
+}

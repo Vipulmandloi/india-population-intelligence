@@ -1,0 +1,63 @@
+{
+  "release": "P4B-v1 / v3.4 synthetic",
+  "hashes": {
+    "production": "bb8453a00ff5e832ecb1ee98ff286c81f2410d4f6a481a955a6786c0ad822e2c",
+    "snapshot": "e0f491fe2a9b42af228324a786142106826e129bd8af5b394fd696e4a6138939",
+    "advanced": "05053a452415186c4d29a1b4d03c21734cbc492cc4f989890a0683829fb443ac"
+  },
+  "verified": {
+    "records": 1500000000,
+    "households": 397105805,
+    "states": 36,
+    "valid_income": 1500000000,
+    "income_sum_inr": 229298948601272,
+    "zero_income": 897451870
+  },
+  "tolerance": {
+    "absolute": 1e-09,
+    "relative": 1e-12
+  },
+  "groups": {
+    "integrity": {
+      "passed": 6,
+      "failed": 0
+    },
+    "reconciliation": {
+      "passed": 89,
+      "failed": 0
+    },
+    "income bands": {
+      "passed": 216,
+      "failed": 0
+    },
+    "snapshot parity": {
+      "passed": 42,
+      "failed": 0
+    },
+    "registry": {
+      "passed": 88,
+      "failed": 0
+    },
+    "explorer cells": {
+      "passed": 958,
+      "failed": 0
+    },
+    "explorer normalization": {
+      "passed": 1656,
+      "failed": 0
+    },
+    "explorer weighted metrics": {
+      "passed": 238,
+      "failed": 0
+    },
+    "state profile and comparison": {
+      "passed": 756,
+      "failed": 0
+    }
+  },
+  "totals": {
+    "passed": 4049,
+    "failed": 0
+  },
+  "failures": []
+}
